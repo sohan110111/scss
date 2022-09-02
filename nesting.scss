@@ -1,0 +1,11 @@
+$color: rgb(1, 31, 31);
+div {
+    font-family : fantasy;
+    ul{
+        color: $color;
+    }
+    ol{
+        color: $color;
+        text-shadow: 1px 1px 0px #261547;
+    }
+}

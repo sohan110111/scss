@@ -1,0 +1,12 @@
+div {
+  font-family: fantasy;
+}
+div ul {
+  color: rgb(1, 31, 31);
+}
+div ol {
+  color: rgb(1, 31, 31);
+  text-shadow: 1px 1px 0px #261547;
+}
+
+/*# sourceMappingURL=nesting.css.map */
