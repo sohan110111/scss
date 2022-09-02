@@ -1,13 +1,16 @@
 $color1 : #c51955;
 $color2 : #07617c;
 $font-weight : bold;
+$font-family : Fantasy;
 
 ul{
     color: $color1;
     font-weight: $font-weight;
+    font-family: $font-family;
 }
 
 ol{
     color: $color2;
     font-weight: $font-weight;
+    font-family: $font-family;
 }
