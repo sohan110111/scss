@@ -1,0 +1,13 @@
+$color1 : #c51955;
+$color2 : #07617c;
+$font-weight : bold;
+
+ul{
+    color: $color1;
+    font-weight: $font-weight;
+}
+
+ol{
+    color: $color2;
+    font-weight: $font-weight;
+}
